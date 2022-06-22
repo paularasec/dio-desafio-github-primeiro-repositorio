@@ -1,3 +1,0 @@
-Testando o que estou vendo na aula
-
-o gitbash é um terminal extendido para otimizar o uso do git
