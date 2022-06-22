@@ -1,6 +1,6 @@
-### git bash
+### Comandos Iniciais - git bash
 
-$ git status (para verificar o conteúdo/status do repositório)
+$ git status (para verificar o status do repositório)
 
 $ git config --global user.name “Seu nome” (para alterar o nome)
 
